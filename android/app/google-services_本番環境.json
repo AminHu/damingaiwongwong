@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "182889355375",
+    "project_id": "tit-handbook",
+    "storage_bucket": "tit-handbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182889355375:android:b12cdc8e501597ebf4559a",
+        "android_client_info": {
+          "package_name": "jp.go.otit.handbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182889355375-u4n77m87kth1fb6l7rc6b5ohvetj3n1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGLPjsmzrqqZw-Q0wVaY3q7Z8-XZWaCfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182889355375-u4n77m87kth1fb6l7rc6b5ohvetj3n1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182889355375-76tr7nflbhhoclre0u7l5ad214pkus44.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.go.otit.handbook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

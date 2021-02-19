@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "312096912166",
+    "firebase_url": "https://tit-handbook-development.firebaseio.com",
+    "project_id": "tit-handbook-development",
+    "storage_bucket": "tit-handbook-development.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312096912166:android:832f158e5288248366c7e7",
+        "android_client_info": {
+          "package_name": "jp.go.otit.handbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312096912166-t59pe663i01vvb7umm6nue3bq1k74sr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUrILUM5GWp9wdtKH3pxR3srbi3ZoiQO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312096912166-t59pe663i01vvb7umm6nue3bq1k74sr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

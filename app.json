@@ -1,0 +1,29 @@
+{
+  "name": "handbook",
+  "displayName": "handbook",
+  "expo": {
+    "name": "handbook",
+    "slug": "handbook",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "language": "ja",
+  "safetyTips": {
+    "APIKey" : "9BBAADA6E4E5E6E444E195CBCB054FAF5864AE9C9C0BD5CDCF87DDF070DC33CD",
+    "pushSetting": {
+      "is_debug" : 1 
+    },
+    "ｗarnings":{
+      "type" : 1  
+    },
+    "earthquakes" :{
+      "limit" : 10,
+      "from" : 3 ,
+      "to" : 9
+    }
+  },
+  "AppStorURL_Android" : "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=ja&gl=US",
+  "AppStorURL_iOS" : "https://apps.apple.com/jp/app/facebook/id284882215"
+}
